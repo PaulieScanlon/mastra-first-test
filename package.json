@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@ai-sdk/openai": "^1.3.22",
+    "@google-analytics/data": "^5.1.0",
     "@mastra/core": "^0.9.4-alpha.4",
     "@mastra/libsql": "^0.0.4-alpha.4",
     "@mastra/memory": "^0.3.4-alpha.4",
